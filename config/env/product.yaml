@@ -1,0 +1,15 @@
+name: 生产环境
+env: product
+project: vue-okzfans-template
+app: vue-okzfans-template
+host: vue-okzfans-template.com.cn
+title: 生产环境网页
+api:
+  baseUrl: vue-okzfans-template
+  identity: admin
+  host: vue-okzfans-template.com.cn
+  basePath: api/
+version: 1.0.0
+ico: null
+timezone: +08:00
+cosPath: /admin/
