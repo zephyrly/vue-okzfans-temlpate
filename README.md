@@ -1,13 +1,10 @@
-# vue-admin-template
+# vue-okzfans-template
 
 English | [简体中文](./README-zh.md)
 
-> A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
+> a perfect template of magic change in vue-admin-template for personal ,this template is only for personal development
 
-**Live demo:** http://panjiachen.github.io/vue-admin-template
-
-
-**The current version is `v4.0+` build on `vue-cli`. If you want to use the old version , you can switch branch to [tag/3.11.0](https://github.com/PanJiaChen/vue-admin-template/tree/tag/3.11.0), it does not rely on `vue-cli`**
+**The current version is `1.0.0` build on `vue-cli`. this.template **
 
 <p align="center">
   <b>SPONSORED BY</b>
@@ -25,7 +22,7 @@ English | [简体中文](./README-zh.md)
 git clone https://github.com/PanJiaChen/vue-admin-template.git
 
 # enter the project directory
-cd vue-admin-template
+cd vue-okzfans-template
 
 # install dependency
 npm install

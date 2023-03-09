@@ -3,7 +3,7 @@ env: test
 project: vue-okzfans-template
 app: vue-okzfans-template
 host: vue-okzfans-template.com.cn
-title: 测试环境网页
+title: 测试环境
 api:
   baseUrl: vue-okzfans-template
   identity: admin

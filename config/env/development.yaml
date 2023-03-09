@@ -3,11 +3,11 @@ env: development
 project: vue-okzfans-template
 app: vue-okzfans-template
 host: vue-okzfans-template.com.cn
-title: 开发环境网页
+title: 开发环境
 api:
-  baseUrl: http://43.139.225.225:8889/
+  baseUrl: /dev-api # vue-admin-template 所使用 api
   identity: admin
-  host: http://43.139.225.225:8889/
+  host: /dev-api
   basePath: api/
 version: 1.0.0
 ico: null

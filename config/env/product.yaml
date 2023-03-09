@@ -3,7 +3,7 @@ env: product
 project: vue-okzfans-template
 app: vue-okzfans-template
 host: vue-okzfans-template.com.cn
-title: 生产环境网页
+title: 生产环境
 api:
   baseUrl: vue-okzfans-template
   identity: admin
