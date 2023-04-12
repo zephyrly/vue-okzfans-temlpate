@@ -92,7 +92,7 @@ const creat = {
 
             console.log(this.data.original)
 
-            spawn('npm', ['run', this.data.original[1] || this.data.original[0] === 'dev' ? 'start' : 'build:prod'], {
+            spawn('npm', ['run', (this.data.original[1] || this.data.original[0]) === 'dev' ? 'start' : 'build:prod'], {
                 stdio: 'inherit',
                 env
             });

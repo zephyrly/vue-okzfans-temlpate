@@ -1,7 +1,7 @@
 "use strict";
 const path = require("path");
 const defaultSettings = require("./src/settings.js");
-const env = require("@/config/env.json");
+const env = require("./src/config/env.json");
 
 function resolve(dir) {
   return path.join(__dirname, dir);
@@ -37,7 +37,7 @@ module.exports = {
       warnings: false,
       errors: true,
     },
-    // before: require("./mock/mock-server.js"),
+    before: require("./mock/mock-server.js"),
     proxy: {
       [env.api.basePath]: {
         target:

@@ -7,7 +7,7 @@ title: 开发环境
 api:
   baseUrl: /dev-api # vue-admin-template 所使用 api
   identity: admin
-  host: /dev-api
+  host: www.okzfans.top
   basePath: api/
 version: 1.0.0
 ico: null
